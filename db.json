@@ -1,4 +1,15 @@
 {
-    "hello": "world",
-    "bye": "world"
+    "getthis": {
+        "hello": "world",
+        "bye": "world"
+    },
+
+    "getlistlist": [
+        {
+            "one": "onep"
+        },
+        {
+            "two": "twop"
+        }
+    ]
 }
